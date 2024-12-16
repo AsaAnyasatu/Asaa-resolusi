@@ -6,3 +6,4 @@ Memperluas relasi pertemanan
   * Dalam kampus
   * Luar kampus
 Mendapatkan IP 3,3
+Menjadi mahasiswa berprestasi
